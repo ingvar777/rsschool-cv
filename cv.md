@@ -19,3 +19,13 @@ Hey! I'm a beginner front-end developer. I want to acquire new knowledge and ski
 
 ### Education
 **03/2022-Now** Course: JavaScript Development. Rolling Scopes School
+
+---
+
+### Skills
+- HTML
+- CSS
+- JS
+- Webpack
+- Node
+- Git
