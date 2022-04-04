@@ -13,3 +13,9 @@ Hey! I'm a beginner front-end developer. I want to acquire new knowledge and ski
 **VK:** vk.com/id777<br>
 **e-mail:** fake777@gmai.com<br>
 **Location:** Russia, Langepas<br>
+
+
+---
+
+### Education
+**03/2022-Now** Course: JavaScript Development. Rolling Scopes School
