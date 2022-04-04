@@ -57,3 +57,10 @@ function assert(value, desc) {
 ### Work Expirience
 **Student** *03/2022-Now*<br>
 Now I have no projects that I could show. But it will be very interesting for me to supplement this section as I gain new knowledge on this course.
+
+---
+### Hobbies
+- Listen music
+- Drive car
+- Reading books
+- Sport
