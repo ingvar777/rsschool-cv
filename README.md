@@ -1,2 +1,1 @@
-# rsschool-cv
-Front-end 2022Q1
+- https://ingvar777.github.io/rsschool-cv/
