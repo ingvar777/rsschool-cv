@@ -45,3 +45,9 @@ function assert(value, desc) {
    document.getElementById("result").appendChild(li);
 }
 ```
+
+---
+
+### Foreign languages
+- Russia (Native)
+- English (A1)
